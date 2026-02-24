@@ -49,6 +49,7 @@ starting with strong foundations in:
 
 ## 📂 Repository Structure
 
+```
 CyberSec-Journey/
 ├── README.md
 ├── Cycle-01-Networking-Linux/
@@ -58,10 +59,7 @@ CyberSec-Journey/
 ├── Cycle-02-Linux-Python/
 ├── Mini-Projects/
 └── Cheat-Sheets/
-
-
-
----
+```
 
 ## ✨ Philosophy
 
