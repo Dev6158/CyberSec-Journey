@@ -68,5 +68,5 @@ CyberSec-Journey/
 
 ---
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)
+[![picoCTF](https://img.shields.io/badge/picoCTF-Dev6158-blue?style=for-the-badge)](https://play.picoctf.org/users/Dev6158)
 ![Status](https://img.shields.io/badge/Status-Learning-blue)
