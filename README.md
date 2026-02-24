@@ -42,8 +42,8 @@ starting with strong foundations in:
 | **Branch** | Computer Science and Engineering |
 | **Society** | Cyber Peace Corps |
 | **Domain** | Rotational (To be assigned) |
-| **TryHackMe** | https://tryhackme.com/p/yourprofile |
-| **LinkedIn** | https://linkedin.com/in/yourprofile |
+| **TryHackMe** | https://tryhackme.com/p/Debansh |
+| **LinkedIn** | https://linkedin.com/in/debansh-hota-1b0188317 |
 
 ---
 
