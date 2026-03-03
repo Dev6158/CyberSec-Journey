@@ -41,3 +41,7 @@ Level 10
 ## Rooms completed in THM
 <img width="1913" height="989" alt="image" src="https://github.com/user-attachments/assets/3b527dac-6047-405f-bbdd-d3b70fc0ad04" />
 
+<img width="1153" height="992" alt="image" src="https://github.com/user-attachments/assets/5cdb7768-ea01-4c52-b108-3dc04484c193" />
+
+
+<img width="1917" height="981" alt="Screenshot 2026-03-03 122154" src="https://github.com/user-attachments/assets/c95bc1bf-2074-43cd-b4a3-4f4a62933e83" />
